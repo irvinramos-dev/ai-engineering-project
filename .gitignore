@@ -3,3 +3,7 @@
 __pycache__/
 *.pyc
 .vs/
+*.mp3
+*.m4a
+*.wav
+inventory_log.jsonl
